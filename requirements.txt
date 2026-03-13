@@ -1,0 +1,11 @@
+# Messaging Backbone (Modern fork for Python 3.12+)
+kafka-python-ng
+
+# LLM & Agent Frameworks (Latest versions for Python 3.13 compatibility)
+langchain
+langchain-openai
+langchain-community
+langgraph
+
+# Utilities
+python-dotenv
